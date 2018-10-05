@@ -1,0 +1,63 @@
+#urls h1 {
+    opacity: 0.2;
+    text-align: center;
+    margin: 1em 0 1em 0;
+}
+#urls #add-url .btn-group,
+#urls #edit-url .btn-group{
+    margin-bottom: 1em;
+}
+#urls #add-url .align-btn-group,
+#urls #edit-url .align-btn-group{
+    text-align: center;
+}
+
+
+#urls .list-group .gm-drag-handle {
+    opacity: 0.2;
+    margin-right: 10px;
+}
+
+#urls .list-group .list-group-item .url-text {
+    margin-left: 0.5em;
+}
+
+#urls .allow {
+    background-color: #cfc
+}
+#urls .deny {
+    background-color: #fcc
+}
+
+#urls .btn-secondary {
+    color: #fff;
+    background-color: #cc57cc;
+    border-color: #b146b5;
+}
+
+#urls i.deactivated { color: #c7c7c7; }
+#urls i.default { color: #c1c1c1; }
+#urls i.info { color: #5bc0de; }
+#urls i.secondary { color: #cc57cc; }
+#urls i.warning { color: #ec971f; }
+#urls i.danger { color: #c9302c; }
+
+#urls #legend span {
+    margin-right: 1em;
+}
+
+.gm-drag-element {
+    opacity: 0.3;
+}
+
+.gm-dragging {
+    background-color: lightgrey;
+}
+
+.gm-drag-handle {
+    cursor: grab;
+}
+
+.panel.gm-dropping {
+    box-shadow: 0px 0px 2px black;
+}

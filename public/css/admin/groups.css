@@ -1,0 +1,27 @@
+#groups h1 {
+    opacity: 0.2;
+    text-align: center;
+    margin: 1em 0 1em 0;
+}
+#groups table .actions button {
+    margin-right: 1em;
+}
+#groups #group-users h2 {
+    text-align: center;
+    margin-top: 1em;
+    font-weight: bold;
+    opacity: 0.2;
+}
+#groups #group-users h4 {
+    opacity: 0.8;
+    text-align: center;
+}
+#groups #group-users select {
+    width: 100%;
+}
+#groups #group-users .right-align {
+    margin-top: 1em;
+}
+#groups .table #number_of_users {
+    text-align: center;
+}
